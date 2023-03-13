@@ -1,0 +1,2 @@
+Make a web app
+Learn proper python
